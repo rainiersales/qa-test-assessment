@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the FedEx Digital International QA Engineer assessment. The purpose is to give us
+This is the *CONFIDENTIAL* Digital International QA Engineer assessment. The purpose is to give us
 insight in your technical abilities, development approach and general technical
 working habits. We view your performance on this assessment as indicative of
 the work you will deliver as a QA Engineer.
@@ -49,4 +49,4 @@ When the assessment is completed and your tests run and show your skills, push y
 
 We ask you to treat this assessment as confidential so we can apply the scenarios to
 future candidates also. Your solution will not be kept after the assessment and
-will not be used by FedEx Digital International.
+will not be used by *CONFIDENTIAL*.
